@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [maruyasa.site](maruyasa.site)
+- 👨‍💻 All of my projects are available at [https://maruyasa.site](maruyasa.site)
 
 - 💬 Ask me about **laravel, react, expressjs**
 
